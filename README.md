@@ -1,3 +1,3 @@
-# discourse-elementary-theme
+# discourse-elementary-theme-custom 
 
-An elementary theme for Discourse.
+Custom ForAllSecure Discourse Theme. Based on Discourse-elementary
