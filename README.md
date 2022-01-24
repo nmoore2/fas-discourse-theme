@@ -1,1 +1,3 @@
-# fas-discourse-theme
+# discourse-elementary-theme
+
+An elementary theme for Discourse.

@@ -1,0 +1,22 @@
+{
+  "name": "discourse-elementary-theme",
+  "about_url": "https://meta.discourse.org/t/elementary-a-simple-theme-for-discourse/177159",
+  "license_url": "https://github.com/MeghnaAJ/discourse-elementary-theme/blob/master/LICENSE",
+  "author": "Meghna",
+  "assets": {},
+  "color_schemes": {
+    "elementary": {
+      "primary": "000000",
+      "secondary": "FCFDFC",
+      "tertiary": "a1b6b4",
+      "quaternary": "a1b6b4",
+      "header_background": "BFD4C3",
+      "header_primary": "000000",
+      "highlight": "ffff4d",
+      "danger": "e41111",
+      "success": "ec8972",
+      "love": "A1BFA1"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
