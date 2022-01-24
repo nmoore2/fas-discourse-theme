@@ -137,7 +137,7 @@ img.avatar {
 }
 
 .topic-meta-data .post-info a {
-  color: $tertiary;
+  color: $color-text-black;
 }
 
 // Buttons
@@ -167,10 +167,10 @@ img.avatar {
   }
   &:hover {
     background: $color-sea-green;
-    color: $color-black;
+    color: $color-purple;
     border-radius: $radius-4;
     .fa {
-      color: $color-black;
+      color: $color-purple;
     }
   }
 }
@@ -183,10 +183,11 @@ img.avatar {
   border-radius: $radius-4;
 
   li a.widget-link:hover, li a.widget-link:focus {
-    background-color: $tertiary;
-    .fa {
-      color: $color-white;
-    }
+    background-color: transparent;
+    font-weight: bold;
+    // .fa {
+    //   color: $color-white;
+    // }
   }
   .panel-body-bottom .btn:hover {
     background: $tertiary;
@@ -268,4 +269,11 @@ div.menu-links-header .menu-links-row li a.active .d-icon {
  .discourse-no-touch .admin-controls label.btn.btn-hover {
   background: $tertiary-hover;
   color: $color-white;
+}
+
+
+// CUSTOM OVERRIDES
+
+.discourse-no-touch .sortable:hover, .discourse-no-touch .sortable:focus {
+  background: transparent;
 }
