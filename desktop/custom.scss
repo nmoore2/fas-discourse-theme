@@ -1,0 +1,14 @@
+// CUSTOM OVERRIDES
+
+.discourse-no-touch .sortable:hover, .discourse-no-touch .sortable:focus {
+  background: transparent;
+
+}
+
+.nav-stacked {
+  a {
+    &.active {
+      color: $color-black;
+    }
+  }
+}
